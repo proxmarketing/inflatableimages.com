@@ -1,0 +1,2 @@
+[24-Jul-2013 11:56:55] PHP Fatal error:  Call to undefined function  ajax_get_post_by() in /home/proxops/public_html/ii/wp-content/themes/squaregrid/index.php on line 3
+[25-Jul-2013 14:19:42] PHP Fatal error:  Call to undefined function  ajax_get_post_by() in /home/proxops/public_html/ii/wp-content/themes/squaregrid/index.php on line 3
